@@ -116,11 +116,11 @@ const krish = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kakusingh120&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakusingh120&theme=radical" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kakusingh120&show_icons=true&theme=tokyonight" alt="Krish's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishsingh120&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishsingh120&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishsingh120&show_icons=true&theme=tokyonight" alt="Krish's GitHub stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=kakusingh120&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=krishsingh120&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
