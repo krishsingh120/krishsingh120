@@ -1,32 +1,44 @@
-<h1 align="center">Hey there 👋, I'm Krish Singh</h1>
-<h3 align="center">Full-Stack MERN Developer | Problem Solver</h3>
-<h3 align="center">Full-Stack MERN Developer | Clean Code Enthusiast | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Specialist+with+Real-time+Expertise;Animation+Maestro+(GSAP%2C+Framer+Motion);LeetCode+1480+%7C+System+Design+Enthusiast" 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+scalable+and+responsive+MERN+stack+applications;RESTful+APIs+%7C+Real-time+Apps+%7C+Cloud+Deployments;Clean+UI%2C+Modular+Code%2C+SEO+Friendly+Designs" 
-    alt="Typing SVG" 
-  />
-</p>
-@@ -12,88 +12,86 @@
+# 👋 Hi, I'm Krish Singh
+
+### Backend-Focused Full-Stack Developer | Cloud & DevOps Enthusiast | Problem Solver
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems+%26+RESTful+APIs;Microservices+%7C+Real-Time+Apps+%7C+Event-Driven+Architecture;AWS+%7C+Docker+%7C+CI%2FCD;MongoDB+%7C+MySQL+%7C+Redis;200%2B+LeetCode+Problems+%7C+1500%2B+Rating;Clean+Code+%7C+System+Design)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-singh-9023b12a8/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishsingh.work@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/krishsingh123/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kakusingh120)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kakusingh120&color=00D9FF&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Engineer** with production experience in **MERN stack** applications
-- 🛠️ Built **scalable systems** with **REST APIs**, **authentication**, **Cloudinary integrations**, and **MVC architecture**
-- ⚡ **Real-time systems** specialist using **Socket.io** with WebSocket implementations
-- 🎯 **LeetCode 1480+** | Strong grasp of **DSA** and system design principles
-- 🚢 Deployed **full-stack apps** on **Vercel**, **Render**, and **cloud platforms**
-- 🔭 Currently exploring **microservices** and **performance optimization** techniques
-- 💻 I'm a **Full-Stack Web Developer** with strong command over the **MERN stack**
-- 🧠 I enjoy solving logical problems and building **clean, scalable applications**
-- 📱 Proficient in creating **responsive**, **modular**, and **SEO-friendly** user interfaces
-- 🔁 Experienced in **real-time communication** using **Socket.io**, and building **RESTful APIs**
-- ☁️ Skilled in deploying full-stack apps using **Vercel**, **Render**, and **Cloudinary**
-- ⚙️ Comfortable with **authentication**, **image uploads**, and **MVC architecture**
-- 📈 Active **LeetCode** participant (Rating: **1480+**), focused on improving **DSA**
+```javascript
+const krish = {
+    role: "Full-Stack Developer",
+    focus: ["Backend Architecture", "Cloud Infrastructure", "System Design"],
+    currentlyLearning: ["Kubernetes", "Microservices Patterns", "System Design"],
+    askMeAbout: ["Backend", "APIs", "Cloud", "DevOps", "DSA"],
+    funFact: "I debug with console.log() and I'm not ashamed 😄"
+};
+```
 
+## 🚀 About Me
+
+- 🎯 Specialized in backend systems, RESTful APIs, microservices
+-⚡ Real-time apps using Socket.io, RabbitMQ,, BullMQ, event-driven patterns
+- ☁️ Cloud: AWS, Docker, CI/CD
+- 💾 Databases: MongoDB, MySQL, Redis, Azure CosmosDB
+- 🧪 Testing: Jest, Postman, Grafana(K6)
+- 🧠 DSA: 200+ problems, 1500+ rating (LeetCode)
+- 🎨 Frontend: React, Redux Toolkit, GSAP, Framer Motion
+- 
 ---
 
 ## 🛠️ Technical Skills
