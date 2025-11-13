@@ -91,19 +91,7 @@ const krish = {
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakusingh120&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kakusingh120&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakusingh120&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakusingh120&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=c9d1d9&area=true&area_color=00D9FF" alt="Contribution Graph" width="100%"/>
-</div>
+<div align="center"> <!-- GitHub Stats --> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kakusingh120&show_icons=true&theme=tokyonight&hide_border=false" /> <!-- Streak Stats --> <img height="170" src="https://streak-stats.demolab.com/?user=kakusingh120&theme=tokyonight&hide_border=false" /> <!-- Top Languages --> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakusingh120&layout=compact&theme=tokyonight&hide_border=false" /> </div>
 
 ---
 
