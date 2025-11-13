@@ -4,16 +4,14 @@
 
 ### Backend-Focused Full-Stack Developer | Cloud & DevOps Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems+%26+RESTful+APIs;Microservices+%7C+Real-Time+Applications+%7C+Event-Driven+Architecture;AWS+%7C+Docker+%7C+CI%2FCD+Pipelines;MongoDB+%7C+MySQL+%7C+Redis;200%2B+LeetCode+Problems+%7C+1500%2B+Rating;Clean+Code+%7C+Best+Practices+%7C+System+Design" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems+%26+RESTful+APIs;Microservices+%7C+Real-Time+Apps+%7C+Event-Driven+Architecture;AWS+%7C+Docker+%7C+CI%2FCD;MongoDB+%7C+MySQL+%7C+Redis;200%2B+LeetCode+Problems+%7C+1500%2B+Rating;Clean+Code+%7C+System+Design)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/krish-singh-9023b12a8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:krishsingh.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/krishsingh123/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-  <a href="https://github.com/kakusingh120"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-singh-9023b12a8/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishsingh.work@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/krishsingh123/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kakusingh120)
 
-<img src="https://komarev.com/ghpvc/?username=kakusingh120&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=kakusingh120&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -29,7 +27,7 @@ const krish = {
     askMeAbout: ["Backend", "APIs", "Cloud", "DevOps", "DSA"],
     funFact: "I debug with console.log() and I'm not ashamed 😄"
 };
-```
+
 
 - 🎯 Specialized in **backend systems**, **RESTful APIs**, and **microservices architecture**
 - ⚡ Building **real-time applications** with **Socket.io**, **RabbitMQ**, and **event-driven patterns**
@@ -93,34 +91,23 @@ const krish = {
 ## 📊 GitHub Statistics
 <div align="center"> <!-- GitHub Stats --> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kakusingh120&show_icons=true&theme=tokyonight&hide_border=false" /> <!-- Streak Stats --> <img height="170" src="https://streak-stats.demolab.com/?user=kakusingh120&theme=tokyonight&hide_border=false" /> <!-- Top Languages --> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakusingh120&layout=compact&theme=tokyonight&hide_border=false" /> </div>
 
+
+## 📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakusingh120&theme=tokyo-night&hide_border=false" width="100%" /> </div>
+
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kakusingh120&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kakusingh120&repo=your-project-1&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/kakusingh120/your-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kakusingh120&repo=your-project-2&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/kakusingh120/your-project-2)
-
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kakusingh120&theme=tokyonight&title=Stars,Commit,Followers,Repositories,Experience&margin-w=10&margin-h=10" /> </div>
 
 ---
 
 ## 📈 Coding Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/krishsingh123?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://codolio.com/api/stats/leetcode/krish2254?theme=dark" alt="LeetCode Stats from Codolio" />
 </div>
 
----
 
 ## 🎯 Current Goals
 
@@ -133,11 +120,11 @@ const krish = {
 ---
 
 <div align="center">
+<div align="center">
 
-### 💡 "Clean code always looks like it was written by someone who cares."
+  
+## 💡 "Clean code always looks like it was written by someone who cares."
 
-**Thanks for visiting! Let's connect and build something amazing together 🚀**
+Thanks for visiting! Let's connect and build something amazing 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/> </div> ```
