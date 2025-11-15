@@ -32,13 +32,13 @@ const krish = {
 ## 🚀 About Me
 
 - 🎯 Specialized in backend systems, RESTful APIs, microservices
--⚡ Real-time apps using Socket.io, RabbitMQ,, BullMQ, event-driven patterns
+- ⚡ Real-time apps using Socket.io, RabbitMQ,, BullMQ, event-driven patterns
 - ☁️ Cloud: AWS, Docker, CI/CD
 - 💾 Databases: MongoDB, MySQL, Redis, Azure CosmosDB
 - 🧪 Testing: Jest, Postman, Grafana(K6)
 - 🧠 DSA: 200+ problems, 1500+ rating (LeetCode)
 - 🎨 Frontend: React, Redux Toolkit, GSAP, Framer Motion
-- 
+  
 ---
 
 ## 🛠️ Technical Skills
