@@ -11,7 +11,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/krishsingh123/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kakusingh120)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kakusingh120&color=00D9FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=krishsingh120&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
 
