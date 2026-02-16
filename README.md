@@ -36,8 +36,8 @@ const krish = {
 - ☁️ Cloud: AWS, Docker, CI/CD
 - 💾 Databases: MongoDB, MySQL, Redis, Azure CosmosDB
 - 🧪 Testing: Jest, Postman, Grafana(K6)
-- 🧠 DSA: 350+ problems, 1500+ rating (LeetCode)
-- 🎨 Frontend: React, Redux Toolkit, GSAP, Framer Motion
+- 🧠 DSA: Solves 350+ DSA problems (LeetCode, GFG)
+- 🎨 Frontend: React, Redux Toolkit, GSAP
   
 ---
 
