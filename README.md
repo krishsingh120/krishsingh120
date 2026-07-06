@@ -4,7 +4,7 @@
 
 ### Backend-Focused Full-Stack Developer | Cloud & DevOps Enthusiast | Problem Solver
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems+%26+RESTful+APIs;Microservices+%7C+Real-Time+Apps+%7C+Event-Driven+Architecture;AWS+%7C+Docker+%7C+CI%2FCD;MongoDB+%7C+MySQL+%7C+Redis;500%2B+DSA+Problems;Clean+Code+%7C+System+Design)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems+%26+RESTful+APIs;Microservices+%7C+Real-Time+Apps+%7C+Event-Driven+Architecture;AWS+%7C+Docker+%7C+CI%2FCD;MongoDB+%7C+MySQL+%7C+Redis;500%2B+DSA+Problems;Clean+Code+%7C+System+Design)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-singh-9023b12a8/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishsingh.work@gmail.com)
@@ -36,7 +36,7 @@ const krish = {
 - ☁️ Cloud: AWS, Docker, CI/CD
 - 💾 Databases: MongoDB, MySQL, Redis, Azure CosmosDB
 - 🧪 Testing: Jest, Postman, Grafana(K6)
-- 🧠 DSA: Solves 350+ DSA problems (LeetCode, GFG)
+- 🧠 DSA: Solves 700+ DSA problems (LeetCode, GFG)
 - 🎨 Frontend: React, Redux Toolkit, GSAP
   
 ---
@@ -79,7 +79,7 @@ const krish = {
 
 <p align="center">
   <a href="https://leetcode.com/yourprofile/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1480+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   <a href="https://leetcode.com/u/krishsingh123/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
