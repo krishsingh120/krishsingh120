@@ -133,20 +133,51 @@ const krish = {
 
 <table align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3>⚔️ ExecHub</h3>
-<sub><b>Coding Platform</b></sub>
-<p>Async code-evaluation pipeline with LLM-powered error explanations across 4+ languages, delivered live over WebSockets.</p>
+<h3><a href="https://github.com/krishsingh120/PayFlow">💳 PayFlow</a></h3>
+<sub><b>Payment Processing Platform</b></sub>
+<p>Payment state machine, idempotent APIs, RabbitMQ async workers, transactional outbox, HMAC-signed webhooks, double-entry ledger and automated reconciliation.</p>
 <p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/BullMQ-D0021B?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/krishsingh120/ListingHub">🛒 ListingHub</a></h3>
+<sub><b>OLX-style Marketplace Backend</b></sub>
+<p>Transactional outbox worker with SKIP LOCKED, keyset pagination, direct-to-R2 presigned uploads, token-bucket rate limiting and timing-attack-safe auth.</p>
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚔️ ExecHub</h3>
+<p>4 Node.js microservices with a BullMQ + Redis queue, sandboxed Docker execution across 4+ languages, LLM-powered error explanations and live results over WebSockets.</p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-D0021B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
 
 <h3>📖 ExamPrep AI</h3>
 <sub><b>RAG Assistant</b></sub>
@@ -159,23 +190,11 @@ const krish = {
 </p>
 
 </td>
-<td width="33%" valign="top">
-
-<h3>🔐 Auth Gateway</h3>
-<sub><b>Go REST API</b></sub>
-<p>Clean Architecture service with JWT auth, bcrypt hashing, RBAC, request validation middleware and rate limiting.</p>
-<p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chi-1C1C1C?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
-</td>
 </tr>
 </table>
 
 <br/>
+
 
 <!-- ============ OPEN SOURCE ============ -->
 <h2 align="center">🌍 Open Source Contributions</h2>
